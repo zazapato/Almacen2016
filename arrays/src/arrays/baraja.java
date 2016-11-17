@@ -3,7 +3,7 @@ package arrays;
 import java.util.Scanner;
 
 public class baraja {
-
+//pull me modrafukka
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] deckOfCards = new int[40];
